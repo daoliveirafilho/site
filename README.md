@@ -1,17 +1,15 @@
 <!-- PROJETOS -->
 ## Projetos
 
-![Teste, de conex&atilde;o](assets/images/hero/agro.jpg)
+![Agro][Agro]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-![Teste, de conex&atilde;o](assets/images/hero/auto.jpg)
+![Auto][Auto]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-![Teste, de conex&atilde;o](assets/images/itens/IMG_0201.jpg)
-
-![Teste, de conex&atilde;o](assets/images/itens/IMG_0202.jpg)
+![Pamtool][Pamtool]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -25,10 +23,9 @@ De outra forma pode entrar em contato pelo linkedin abaixo:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+[Agro]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/hero/agro.jpg
+[Auto]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/hero/auto.jpg
+[Pamtool]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0197.jpg
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/d-a-oliveira-filho/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
