@@ -18,7 +18,7 @@ Se preferir enviar-nos um e-mail, o formato &eacute; bastante r&iacute;gido, por
 
 De outra forma pode entrar em contato pelo linkedin abaixo:
 
-[![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
