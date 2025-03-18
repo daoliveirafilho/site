@@ -1,25 +1,13 @@
 <!-- PROJETOS -->
 ## Projetos
 
-### Agricultura
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 ![Teste, de conex&atilde;o](assets/images/hero/agro.jpg)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-### Automobilismo
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 ![Teste, de conex&atilde;o](assets/images/hero/auto.jpg)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-### Pamtool
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 ![Teste, de conex&atilde;o](assets/images/itens/IMG_0201.jpg)
 
