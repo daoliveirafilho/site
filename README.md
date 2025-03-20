@@ -1,15 +1,15 @@
 <!-- PROJETOS -->
 ## Projetos
 
-![Agro][Agro]
+![Agro]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-![Auto][Auto]
+![Auto]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-![Pamtool][Pamtool]
+![Pamtool]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
