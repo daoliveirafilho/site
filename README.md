@@ -18,8 +18,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Se preferir enviar-nos um e-mail, o formato &eacute; bastante r&iacute;gido, por favor use este modelo. Envie-o para contato em rekall.com.br, com uma linha Assunto: contendo a palavra "contato".
 
-De outra forma pode entrar em contato pelo linkedin abaixo:
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
