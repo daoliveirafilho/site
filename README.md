@@ -1,7 +1,21 @@
 <!-- PROJETOS -->
 ## Privileged Access Management
 
-_O sistema operacional Slackware apresenta a estrutura mais parecida com UNIX, e est&aacute; com o KERNEL da s&eacute;rie 5.15.x, dessa forma as suas atualiza&ccedil;&otilde;es estar&atilde;o dispon&iacute;veis por um longo tempo._
+_PAM é uma parte importante da estratégia de segurança cibernética de uma organização. Ele ajuda a reduzir o risco de ataques cibernéticos e a mitigar danos causados por ameaças externas e internas. PAM é um subcampo da Gerência de Identidade e Acesso (IAM)._
+
+*Monitora, detecta e previne o acesso privilegiado não autorizado.
+
+*Identifica atividades maliciosas relacionadas ao abuso de privilégios.
+
+*Remedia rapidamente riscos e Aplica o princípio de menor privilégio, que limita o acesso dos usuários ao mínimo necessário para realizar suas funções.
+
+*Protege contra roubo de credenciais e abuso de privilégios.
+
+*Ajuda a identificar e remediar riscos.
+
+*Ajuda a reduzir a superfície de ataque da organização.
+
+*Ajuda a prevenir e mitigar danos causados por ataques externos e ameaças internas.
 
 ![Pamtool]
 
