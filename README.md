@@ -13,7 +13,7 @@ _Slackware &eacute; uma distribui&ccedil;&atilde;o GNU/Linux mantida ainda em ev
 
 ![Kernel]
 
-_O KERNEL da s&eacute;rie 5.15.x, escolhido para este projeto, tem "manuten&ccedil;&atilde;o de longo prazo"._
+_O Kernel da s&eacute;rie 5.15.x, escolhido para este projeto, tem "manuten&ccedil;&atilde;o de longo prazo"._
 
 <!-- CONTATO -->
 ## Contato
