@@ -1,13 +1,5 @@
 <!-- PROJETOS -->
-## Projetos
-
-![Agro]
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-![Auto]
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+## Privileged Access Management
 
 ![Pamtool]
 
