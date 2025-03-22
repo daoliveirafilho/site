@@ -15,13 +15,6 @@ _Slackware &eacute; uma distribui&ccedil;&atilde;o GNU/Linux mantida ainda em ev
 
 _O Kernel da s&eacute;rie 5.15.x, escolhido para este projeto, tem "manuten&ccedil;&atilde;o de longo prazo"._
 
-<!-- CONTATO -->
-## Contato
-
-Se preferir enviar-nos um e-mail, o formato &eacute; bastante r&iacute;gido, por favor use este modelo. Envie-o para contato em rekall.com.br, com uma linha Assunto: contendo a palavra "contato".
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 [Kernel]: https://www.kernel.org/theme/images/logos/tux.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/d-a-oliveira-filho/
