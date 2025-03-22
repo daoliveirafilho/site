@@ -3,19 +3,7 @@
 
 _PAM é uma parte importante da estratégia de segurança cibernética de uma organização. Ele ajuda a reduzir o risco de ataques cibernéticos e a mitigar danos causados por ameaças externas e internas. PAM é um subcampo da Gerência de Identidade e Acesso (IAM)._
 
-*Monitora, detecta e previne o acesso privilegiado não autorizado.
-
-*Identifica atividades maliciosas relacionadas ao abuso de privilégios.
-
-*Remedia rapidamente riscos e Aplica o princípio de menor privilégio, que limita o acesso dos usuários ao mínimo necessário para realizar suas funções.
-
-*Protege contra roubo de credenciais e abuso de privilégios.
-
-*Ajuda a identificar e remediar riscos.
-
-*Ajuda a reduzir a superfície de ataque da organização.
-
-*Ajuda a prevenir e mitigar danos causados por ataques externos e ameaças internas.
+Ajuda a identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitora, detecta e previne o acesso privilegiado n&atilde;o autorizado. Identifica atividades maliciosas relacionadas ao abuso de privil&eacute;gios.
 
 ![Pamtool]
 
