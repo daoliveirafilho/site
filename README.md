@@ -11,7 +11,7 @@ _Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute
 
 ![Slackware]
 
-_Slackware apresenta a estrutura mais parecida com UNIX, dessa forma se for configurado e mantido corretamente ._
+_Slackware apresenta a estrutura mais parecida com UNIX._
 
 _O KERNEL da s&eacute;rie 5.15.x, dessa forma as suas atualiza&ccedil;&otilde;es estar&atilde;o dispon&iacute;veis por um longo tempo._
 
