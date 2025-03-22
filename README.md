@@ -5,7 +5,7 @@ _PAM &eacute; uma parte importante da estrat&eacute;gia de seguran&ccedil;a cibe
 
 _Ajuda a identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitora, detecta e previne o acesso privilegiado n&atilde;o autorizado. Identifica atividades maliciosas relacionadas ao abuso de privil&eacute;gios._
 
-_Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel, logo a escolha do sistema operacional deve impactar na experi&ecirc;ncia do usu&aacute;rio, na seguran&ccedil;a e a efici&ecirc;ncia das opera&ccedil;&otilde;es._
+_Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel, dessa forma a escolha do sistema operacional pode impactar na experi&ecirc;ncia do usu&aacute;rio, na seguran&ccedil;a e a efici&ecirc;ncia das opera&ccedil;&otilde;es._
 
 ![Slackware]
 
