@@ -7,11 +7,9 @@ _Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute
 
 ![Slackware]
 
-_Slackware &eacute; uma distribui&ccedil;&atilde;o GNU/Linux mantida ainda em evid&ecirc;ncia, com uma meta de produ&ccedil;&atilde;o da distribui&ccedil;&atilde;o baseada em simplicidade e estabilidade, alcan&ccedil;ando o padr&atilde;o de distribui&ccedil;&atilde;o mais Unix-like ao manter seus usu&aacute;rios nas camadas de configura&ccedil;&atilde;o em console de modo texto para uma total personaliza&ccedil;&atilde;o do ambiente._
+_Slackware &eacute; uma distribui&ccedil;&atilde;o GNU/Linux mantida ainda em evid&ecirc;ncia, com uma meta de produ&ccedil;&atilde;o da distribui&ccedil;&atilde;o baseada em simplicidade e estabilidade, alcan&ccedil;ando o padr&atilde;o de distribui&ccedil;&atilde;o mais Unix-like ao manter seus usu&aacute;rios nas camadas de configura&ccedil;&atilde;o em console de modo texto para uma total personaliza&ccedil;&atilde;o do ambiente. O Kernel da s&eacute;rie 5.15.x, escolhido para esta distro, tem "manuten&ccedil;&atilde;o de longo prazo"._
 
 ![Kernel]
-
-_O Kernel da s&eacute;rie 5.15.x, escolhido para este projeto, tem "manuten&ccedil;&atilde;o de longo prazo"._
 
 [Kernel]: https://www.kernel.org/theme/images/logos/tux.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
