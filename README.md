@@ -1,9 +1,7 @@
 <!-- PROJETOS -->
 ## Privileged Access Management
 
-_PAM &eacute; uma parte importante da estrat&eacute;gia de seguran&ccedil;a cibern&eacute;tica de uma organiza&ccedil;&atilde;o. Ele ajuda a reduzir o risco de ataques cibern&eacute;ticos e a mitigar danos causados por amea&ccedil;as externas e internas. PAM &eacute; um subcampo da Ger&ecirc;ncia de Identidade e Acesso (IAM)._
-
-_Ajuda a identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitora, detecta e previne o acesso privilegiado n&atilde;o autorizado. Identifica atividades maliciosas relacionadas ao abuso de privil&eacute;gios._
+_PAM &eacute; uma parte importante da estrat&eacute;gia de seguran&ccedil;a cibern&eacute;tica de uma organiza&ccedil;&atilde;o._
 
 _Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel, dessa forma a escolha do sistema operacional pode impactar na experi&ecirc;ncia do usu&aacute;rio, na seguran&ccedil;a e a efici&ecirc;ncia das opera&ccedil;&otilde;es._
 
