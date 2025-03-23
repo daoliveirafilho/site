@@ -3,7 +3,7 @@
 
 _PAM &eacute; uma parte importante da estrat&eacute;gia de seguran&ccedil;a cibern&eacute;tica de uma organiza&ccedil;&atilde;o._
 
-_Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel, dessa forma a escolha do sistema operacional pode impactar na experi&ecirc;ncia do usu&aacute;rio, na seguran&ccedil;a e a efici&ecirc;ncia das opera&ccedil;&otilde;es._
+_Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel, dessa forma a escolha do sistema operacional pode impactar na experi&ecirc;ncia do usu&aacute;rio, na seguran&ccedil;a e na efici&ecirc;ncia das opera&ccedil;&otilde;es._
 
 ![Slackware]
 
