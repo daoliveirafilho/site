@@ -1,0 +1,204 @@
+/* move special fonts to HTML head for better performance */
+@import url('//fonts.googleapis.com/css?family=Open+Sans:200,300,400,600,700');
+
+
+/* custom template */
+html,body {
+   font-family:'Open Sans',arial,sans-serif !important;
+   background-image:url('../images/hero/bg.jpeg');
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+body {
+    background-color: transparent;
+}
+
+article {
+    background-color:#fefefe;
+    font-size: 14px;
+    padding: 1.5em;
+}
+
+div#sidebar {
+    padding-left: 1em;
+    padding-top: 10px;
+    font-size: 75%;
+    height: 100%;
+}
+
+#sidebar-footer {
+    color:#ffffff;
+    height: 100%;
+    background-color:transparent;
+	text-shadow:1px 0 1px #888888;
+    margin-top: 10px;
+    float: none;
+    width: 80%;
+}
+
+#footer {
+  font-size: 85%;
+  padding: 1em;
+  margin-top:2em;
+  margin-bottom:2em;
+  background-color:#fefefe;
+  align-self: flex-end;
+}
+
+/* Styling of elements */
+
+article h1:first-child {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+div#footer p:last-child {
+    margin-bottom: 0px;
+}
+
+a {
+  color:#222222;
+  text-decoration: underline;
+}
+
+blockquote {
+   border-left: 5px solid #eee;
+   padding: 10px 20px;
+}
+
+.img-circle {
+  margin-top:18px;
+  height:70px;
+  width:70px;
+}
+
+.img-circle-lg {
+  border-radius: 50%;
+  margin-top:36px;
+  height:120px;
+  width:120px;
+}
+
+.img-circle {
+    border-radius:50%
+}
+
+/* Image gallery styles */
+div.gallery { text-align:center; margin-bottom:1em; }
+div.sl-caption { font-size: 85% !important; }
+div.sl-caption a { color: #aaf; }
+h4 { padding-top: 1.5rem; }
+img.img-thumbnail { max-height: 7.5vw; min-height: 7.5em; }
+
+/* Navbar overrides */
+
+#nav-hamburger {
+    margin-top: 0.25em;
+    color: white;
+    float: right;
+}
+
+.navbar-header {
+    padding-bottom: 0.5em;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 200% !important;
+    padding-left: 0px !important;
+}
+
+nav h5 {
+    padding: 0px 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+nav h5 a.nav-link {
+  padding: 2px 0px 0px 0px !important;
+}
+
+div#sidebar a {
+    padding: 2px 0px 0px 2em;
+    text-decoration: none;
+    color:#ffffff;
+    background-color:transparent;
+	text-shadow:1px 0 1px #888888;
+
+} 
+div#sidebar h1,
+div#sidebar h2,
+div#sidebar h3,
+div#sidebar h4,
+div#sidebar h5,
+div#sidebar h6 {
+    font-size: 120%;
+    text-decoration: none;
+    color:#ffffff;
+    background-color:transparent;
+	text-shadow:1px 0 1px #888888;
+}
+
+div#sidebar-footer a {
+    font-size: 120%;
+    padding: 0px;
+}
+
+/* bootstrap overrides */
+
+article h1 {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-top:1px solid #eeeeee;
+    border-bottom:1px solid #eeeeee;
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    color: #6c757d!important;
+}
+
+article h2 {
+    font-size: 20px;
+    font-weight:600;
+}
+
+article h3 {
+    font-size: 18px;
+    font-weight:600;
+}
+
+article h4 {
+    font-size: 14px;
+    font-weight:600;
+}
+
+article h5 {
+    font-size: 12px;
+    font-weight:600;
+}
+
+article h6 {
+    font-size: 10px;
+    font-weight:600;
+}
+
+nav a:hover {
+        text-decoration: underline;
+}
+
+h1,h2,h3 {
+   font-weight:800;
+   font-family:'Open Sans',arial,sans-serif;
+}
+
+.jumbotron {
+  background-color:transparent;
+}
+.label-default {
+  background-color:#dddddd;
+}
